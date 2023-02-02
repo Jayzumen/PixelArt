@@ -29,7 +29,7 @@ Folgende Komponenten müssen lokal installiert sein:
 Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
 
 ```console
-$ git clone <linktorepository> PixelArt
+$ git clone https://github.com/Jayzumen/PixelArt.git PixelArt
 $ cd PixelArt
 $ npm install
 $ npm run dev
