@@ -37,5 +37,5 @@ $ npm run dev
 
 ---
 
-Oder man besuche die Website:
+Oder man besuche die Website: https://pixelart-jn.netlify.app
 
